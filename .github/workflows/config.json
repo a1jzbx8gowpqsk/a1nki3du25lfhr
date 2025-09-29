@@ -1,0 +1,22 @@
+{
+  "targets": [
+    {
+      "name": "107 Sorasaki Hina",
+      "start": "(Tl X: 1718, Tl Y: 845, Px X: 731, Px Y: 554)",
+      "end": "(Tl X: 1720, Tl Y: 846, Px X: 116, Px Y: 484)",
+      "enabled": true
+    },
+    {
+      "name": "SEOUL (5x5)",
+      "start": "(Tl X: 1744, Tl Y: 791, Px X: 0, Px Y: 0)",
+      "end": "(Tl X: 1748, Tl Y: 795, Px X: 999, Px Y: 999)",
+      "enabled": false
+    },
+    {
+      "name": "Dokdo",
+      "start": "(Tl X: 1774, Tl Y: 795, Px X: 39, Px Y: 99)",
+      "end": "(Tl X: 1774, Tl Y: 795, Px X: 401, Px Y: 361)",
+      "enabled": false
+    }
+  ]
+}
