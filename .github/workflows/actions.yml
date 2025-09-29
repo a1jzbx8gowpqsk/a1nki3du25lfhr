@@ -1,0 +1,30 @@
+name: WplaceTimeLapse
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  WplaceTimeLapse:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Python
+        run: |
+          pip install aiohttp pillow
+          python ".github/workflows/script.py"
+
+      - name: Git
+        run: |
+          git config user.email "actions@users.noreply.github.com"
+          git config user.name "github-actions"
+          git add *
+          git commit -m "Actions"
+          git push
