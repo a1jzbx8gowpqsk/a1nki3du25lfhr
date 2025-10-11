@@ -7,16 +7,10 @@
       "enabled": true
     },
     {
-      "name": "SEOUL (5x5)",
-      "start": "(Tl X: 1744, Tl Y: 791, Px X: 0, Px Y: 0)",
-      "end": "(Tl X: 1748, Tl Y: 795, Px X: 999, Px Y: 999)",
-      "enabled": false
-    },
-    {
-      "name": "Dokdo",
-      "start": "(Tl X: 1774, Tl Y: 795, Px X: 39, Px Y: 99)",
-      "end": "(Tl X: 1774, Tl Y: 795, Px X: 401, Px Y: 361)",
-      "enabled": false
+      "name": "108 Silver Shallots",
+      "start": "(Tl X: 1537, Tl Y: 756, Px X: 274, Px Y: 579)",
+      "end": "(Tl X: 1541, Tl Y: 758, Px X: 117, Px Y: 742)",
+      "enabled": true
     }
   ]
 }
