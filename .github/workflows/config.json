@@ -1,6 +1,12 @@
 {
   "targets": [
     {
+      "name": "105 SN Tashkent",
+      "start": "(Tl X: 1720, Tl Y: 843, Px X: 23, Px Y: 777)",
+      "end": "(Tl X: 1720, Tl Y: 844, Px X: 919, Px Y: 611)",
+      "enabled": true
+    },
+    {
       "name": "107 Sorasaki Hina",
       "start": "(Tl X: 1718, Tl Y: 845, Px X: 731, Px Y: 554)",
       "end": "(Tl X: 1720, Tl Y: 846, Px X: 116, Px Y: 484)",
