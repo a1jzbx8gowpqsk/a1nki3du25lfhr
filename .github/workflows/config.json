@@ -17,6 +17,18 @@
       "start": "(Tl X: 1537, Tl Y: 756, Px X: 274, Px Y: 579)",
       "end": "(Tl X: 1541, Tl Y: 758, Px X: 117, Px Y: 742)",
       "enabled": true
+    },
+    {
+      "name": "109 Ascii Virtuosa",
+      "start": "(Tl X: 1539, Tl Y: 759, Px X: 12, Px Y: 112)",
+      "end": "(Tl X: 1541, Tl Y: 762, Px X: 117, Px Y: 236)",
+      "enabled": true
+    },
+    {
+      "name": "110 Detect Lemuen",
+      "start": "(Tl X: 1712, Tl Y: 834, Px X: 44, Px Y: 480)",
+      "end": "(Tl X: 1712, Tl Y: 834, Px X: 323, Px Y: 670)",
+      "enabled": true
     }
   ]
 }
