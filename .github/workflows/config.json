@@ -28,7 +28,7 @@
       "name": "110 Detect Lemuen",
       "start": "(Tl X: 1712, Tl Y: 834, Px X: 44, Px Y: 480)",
       "end": "(Tl X: 1712, Tl Y: 834, Px X: 323, Px Y: 670)",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "111 SN Kiev",
