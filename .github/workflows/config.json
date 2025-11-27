@@ -35,6 +35,12 @@
       "start": "(Tl X: 1720, Tl Y: 843, Px X: 815, Px Y: 610)",
       "end": "(Tl X: 1721, Tl Y: 844, Px X: 962, Px Y: 397)",
       "enabled": true
+    },
+    {
+      "name": "112 SN Stremitelny",
+      "start": "(Tl X: 1720, Tl Y: 842, Px X: 424, Px Y: 935)",
+      "end": "(Tl X: 1721, Tl Y: 843, Px X: 384, Px Y: 701)",
+      "enabled": true
     }
   ]
 }
