@@ -34,7 +34,7 @@
       "name": "111 SN Kiev",
       "start": "(Tl X: 1720, Tl Y: 843, Px X: 815, Px Y: 610)",
       "end": "(Tl X: 1721, Tl Y: 844, Px X: 962, Px Y: 397)",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "112 SN Stremitelny",
