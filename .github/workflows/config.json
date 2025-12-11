@@ -41,6 +41,12 @@
       "start": "(Tl X: 1720, Tl Y: 842, Px X: 424, Px Y: 935)",
       "end": "(Tl X: 1721, Tl Y: 843, Px X: 384, Px Y: 701)",
       "enabled": true
+    },
+    {
+      "name": "114 Duet Night Abyss",
+      "start": "(Tl X: 1688, Tl Y: 773, Px X: 866, Px Y: 381)",
+      "end": "(Tl X: 1689, Tl Y: 773, Px X: 833, Px Y: 928)",
+      "enabled": true
     }
   ]
 }
