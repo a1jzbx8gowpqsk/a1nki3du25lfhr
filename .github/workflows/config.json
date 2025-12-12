@@ -47,6 +47,12 @@
       "start": "(Tl X: 1688, Tl Y: 773, Px X: 866, Px Y: 213)",
       "end": "(Tl X: 1690, Tl Y: 773, Px X: 145, Px Y: 932)",
       "enabled": true
+    },
+    {
+      "name": "114 DNA Logo",
+      "start": "(Tl X: 1688, Tl Y: 774, Px X: 378, Px Y: 699)",
+      "end": "(Tl X: 1688, Tl Y: 774, Px X: 789, Px Y: 880)",
+      "enabled": true
     }
   ]
 }
