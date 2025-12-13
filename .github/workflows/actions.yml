@@ -2,7 +2,7 @@ name: WplaceTimeLapse
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,12 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
+
+      - name: PIP
+        run: |
+          pip install aiohttp pillow
 
       - name: Python
         run: |
-          pip install aiohttp pillow
           python ".github/workflows/script.py"
 
       - name: Git
@@ -26,5 +29,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git config user.name "github-actions"
           git add *
-          git commit -m "Actions"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Actions"
+            git push
+          fi
