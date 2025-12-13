@@ -4,55 +4,64 @@
       "name": "105 SN Tashkent",
       "start": "(Tl X: 1720, Tl Y: 843, Px X: 23, Px Y: 777)",
       "end": "(Tl X: 1720, Tl Y: 844, Px X: 919, Px Y: 611)",
-      "enabled": false
+      "enabled": false,
+      "gif": false
     },
     {
       "name": "107 Sorasaki Hina",
       "start": "(Tl X: 1718, Tl Y: 845, Px X: 731, Px Y: 554)",
       "end": "(Tl X: 1720, Tl Y: 846, Px X: 116, Px Y: 484)",
-      "enabled": false
+      "enabled": false,
+      "gif": false
     },
     {
       "name": "108 Silver Shallots",
       "start": "(Tl X: 1537, Tl Y: 756, Px X: 274, Px Y: 579)",
       "end": "(Tl X: 1541, Tl Y: 758, Px X: 117, Px Y: 742)",
-      "enabled": true
+      "enabled": true,
+      "gif": false
     },
     {
       "name": "109 Ascii Virtuosa",
       "start": "(Tl X: 1539, Tl Y: 759, Px X: 12, Px Y: 112)",
       "end": "(Tl X: 1541, Tl Y: 762, Px X: 117, Px Y: 236)",
-      "enabled": true
+      "enabled": true,
+      "gif": false
     },
     {
       "name": "110 Detect Lemuen",
       "start": "(Tl X: 1712, Tl Y: 834, Px X: 44, Px Y: 480)",
       "end": "(Tl X: 1712, Tl Y: 834, Px X: 323, Px Y: 670)",
-      "enabled": false
+      "enabled": false,
+      "gif": false
     },
     {
       "name": "111 SN Kiev",
       "start": "(Tl X: 1720, Tl Y: 843, Px X: 815, Px Y: 610)",
       "end": "(Tl X: 1721, Tl Y: 844, Px X: 962, Px Y: 397)",
-      "enabled": false
+      "enabled": false,
+      "gif": false
     },
     {
       "name": "112 SN Stremitelny",
       "start": "(Tl X: 1720, Tl Y: 842, Px X: 424, Px Y: 935)",
       "end": "(Tl X: 1721, Tl Y: 843, Px X: 384, Px Y: 701)",
-      "enabled": true
+      "enabled": true,
+      "gif": false
     },
     {
       "name": "114 DNA Fina",
       "start": "(Tl X: 1688, Tl Y: 773, Px X: 866, Px Y: 213)",
       "end": "(Tl X: 1690, Tl Y: 773, Px X: 145, Px Y: 932)",
-      "enabled": true
+      "enabled": true,
+      "gif": false
     },
     {
       "name": "115 DNA Logo",
       "start": "(Tl X: 1688, Tl Y: 774, Px X: 377, Px Y: 676)",
       "end": "(Tl X: 1688, Tl Y: 774, Px X: 840, Px Y: 881)",
-      "enabled": true
+      "enabled": true,
+      "gif": false
     }
   ]
 }
