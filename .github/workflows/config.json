@@ -62,6 +62,13 @@
       "end": "(Tl X: 1688, Tl Y: 774, Px X: 840, Px Y: 881)",
       "enabled": true,
       "gif": false
+    },
+    {
+      "name": "116 Alina_(arknights)",
+      "start": "(Tl X: 1712, Tl Y: 835, Px X: 594, Px Y: 75)",
+      "end": "(Tl X: 1712, Tl Y: 835, Px X: 698, Px Y: 231)",
+      "enabled": true,
+      "gif": false
     }
   ]
 }
