@@ -60,7 +60,7 @@
       "name": "115 Duet_night_abyss",
       "start": "(Tl X: 1688, Tl Y: 774, Px X: 377, Px Y: 676)",
       "end": "(Tl X: 1688, Tl Y: 774, Px X: 840, Px Y: 881)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
