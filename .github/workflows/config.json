@@ -18,7 +18,7 @@
       "name": "108 The_forest_of_silver_shallots",
       "start": "(Tl X: 1537, Tl Y: 756, Px X: 274, Px Y: 579)",
       "end": "(Tl X: 1541, Tl Y: 758, Px X: 117, Px Y: 742)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
@@ -53,7 +53,7 @@
       "name": "114 Fina_(duet_night_abyss)",
       "start": "(Tl X: 1688, Tl Y: 773, Px X: 866, Px Y: 213)",
       "end": "(Tl X: 1690, Tl Y: 773, Px X: 145, Px Y: 932)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
@@ -67,7 +67,7 @@
       "name": "116 Alina_(arknights)",
       "start": "(Tl X: 1712, Tl Y: 835, Px X: 537, Px Y: 57)",
       "end": "(Tl X: 1712, Tl Y: 835, Px X: 718, Px Y: 230)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     }
   ]
