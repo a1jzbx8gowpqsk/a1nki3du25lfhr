@@ -46,7 +46,7 @@
       "name": "112 Stremitelny_(azur_lane)",
       "start": "(Tl X: 1720, Tl Y: 842, Px X: 424, Px Y: 935)",
       "end": "(Tl X: 1721, Tl Y: 843, Px X: 384, Px Y: 701)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
@@ -68,6 +68,13 @@
       "start": "(Tl X: 1712, Tl Y: 835, Px X: 537, Px Y: 57)",
       "end": "(Tl X: 1712, Tl Y: 835, Px X: 718, Px Y: 230)",
       "enabled": false,
+      "gif": false
+    },
+    {
+      "name": "113 Gremyashchy_(azur_lane)",
+      "start": "(Tl X: 1712, Tl Y: 835, Px X: 537, Px Y: 57)",
+      "end": "(Tl X: 1712, Tl Y: 835, Px X: 718, Px Y: 230)",
+      "enabled": true,
       "gif": false
     }
   ]
