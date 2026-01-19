@@ -50,13 +50,6 @@
       "gif": false
     },
     {
-      "name": "114 Fina_(duet_night_abyss)",
-      "start": "(Tl X: 1688, Tl Y: 773, Px X: 866, Px Y: 213)",
-      "end": "(Tl X: 1690, Tl Y: 773, Px X: 145, Px Y: 932)",
-      "enabled": false,
-      "gif": false
-    },
-    {
       "name": "115 Duet_night_abyss",
       "start": "(Tl X: 1688, Tl Y: 774, Px X: 377, Px Y: 676)",
       "end": "(Tl X: 1688, Tl Y: 774, Px X: 840, Px Y: 881)",
