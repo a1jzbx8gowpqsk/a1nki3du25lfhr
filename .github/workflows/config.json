@@ -60,6 +60,13 @@
       "name": "113 gremyashchy_(azur_lane)",
       "start": "(Tl X: 1719, Tl Y: 844, Px X: 938, Px Y: 554)",
       "end": "(Tl X: 1721, Tl Y: 845, Px X: 232, Px Y: 501)",
+      "enabled": false,
+      "gif": false
+    },
+    {
+      "name": "114 tashkent_(muse)_(azur_lane)",
+      "start": "(Tl X: 1719, Tl Y: 842, Px X: 506, Px Y: 809)",
+      "end": "(Tl X: 1720, Tl Y: 843, Px X: 497, Px Y: 631)",
       "enabled": true,
       "gif": false
     },
