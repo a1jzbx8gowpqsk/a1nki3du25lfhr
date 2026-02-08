@@ -36,6 +36,13 @@
       "gif": false
     },
     {
+      "name": "106 106 viviana_(arknights)",
+      "start": "(Tl X: 1711, Tl Y: 834, Px X: 953, Px Y: 740)",
+      "end": "(Tl X: 1712, Tl Y: 835, Px X: 267, Px Y: 79)",
+      "enabled": true,
+      "gif": false
+    },
+    {
       "name": "107 hina_(blue_archive)",
       "start": "(Tl X: 1718, Tl Y: 845, Px X: 731, Px Y: 554)",
       "end": "(Tl X: 1720, Tl Y: 846, Px X: 116, Px Y: 484)",
