@@ -4,21 +4,21 @@
       "name": "101 alina_(arknights)",
       "start": "(Tl X: 1712, Tl Y: 835, Px X: 599, Px Y: 114)",
       "end": "(Tl X: 1712, Tl Y: 835, Px X: 697, Px Y: 212)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
       "name": "102 viviana_(young)_(arknights)",
       "start": "(Tl X: 1712, Tl Y: 835, Px X: 509, Px Y: 214)",
       "end": "(Tl X: 1712, Tl Y: 835, Px X: 701, Px Y: 548)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
       "name": "103 talulah_(arknights)",
       "start": "(Tl X: 1712, Tl Y: 834, Px X: 478, Px Y: 604)",
       "end": "(Tl X: 1712, Tl Y: 834, Px X: 701, Px Y: 827)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
