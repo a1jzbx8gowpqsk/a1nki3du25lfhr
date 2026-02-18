@@ -111,6 +111,13 @@
       "end": "(Tl X: 1712, Tl Y: 835, Px X: 718, Px Y: 230)",
       "enabled": false,
       "gif": false
+    },
+    {
+      "name": "117 murmansk_(azur_lane)",
+      "start": "(Tl X: 1719, Tl Y: 843, Px X: 515, Px Y: 620)",
+      "end": "(Tl X: 1720, Tl Y: 844, Px X: 23, Px Y: 426)",
+      "enabled": true,
+      "gif": false
     }
   ]
 }
