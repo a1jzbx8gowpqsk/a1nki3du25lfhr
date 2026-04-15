@@ -50,10 +50,10 @@
       "gif": false
     },
     {
-      "name": "108 the_forest_of_silver_shallots",
-      "start": "(Tl X: 1537, Tl Y: 756, Px X: 274, Px Y: 579)",
-      "end": "(Tl X: 1541, Tl Y: 758, Px X: 117, Px Y: 742)",
-      "enabled": false,
+      "name": "108 grozny_(azur_lane)",
+      "start": "(Tl X: 1719, Tl Y: 844, Px X: 722, Px Y: 419)",
+      "end": "(Tl X: 1720, Tl Y: 845, Px X: 214, Px Y: 56)",
+      "enabled": true,
       "gif": false
     },
     {
