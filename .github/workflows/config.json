@@ -25,7 +25,7 @@
       "name": "104 lamia_(pgr)",
       "start": "(Tl X: 1668, Tl Y: 890, Px X: 980, Px Y: 297)",
       "end": "(Tl X: 1669, Tl Y: 890, Px X: 247, Px Y: 631)",
-      "enabled": true,
+      "enabled": false,
       "gif": false
     },
     {
