@@ -50,6 +50,13 @@
       "gif": false
     },
     {
+      "name": "108 the_noexistencen_of_morphean_paradox_the_forest_of_silver_shallot",
+      "start": "(Tl X: 1537, Tl Y: 756, Px X: 275, Px Y: 580)",
+      "end": "(Tl X: 1541, Tl Y: 758, Px X: 116, Px Y: 741)",
+      "enabled": true,
+      "gif": false
+    },
+    {
       "name": "109 virtuosa_(arknights)",
       "start": "(Tl X: 1539, Tl Y: 759, Px X: 12, Px Y: 112)",
       "end": "(Tl X: 1541, Tl Y: 762, Px X: 117, Px Y: 236)",
